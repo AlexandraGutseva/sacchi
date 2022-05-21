@@ -1,0 +1,614 @@
+@media screen and (min-width:300px) and (max-width: 470px) {
+.header {
+    width: 129%;
+    height: 350px;
+}
+.logo {
+    left:57px;
+    top: 80px;
+}
+#footer .column1 {
+    margin-left: 24%;
+}
+#footer .column2 {
+    left: 110px;
+}
+.containermain {
+    width: 100;
+    height:185px;
+}
+.poisk {
+    right: 864px;
+    bottom: 180px;
+}
+.poisk input {
+    width: 391px;
+    height: 40px;
+}
+.knopkapoisk, .tyan {
+    display: none;
+}
+.menu2, .menu22  {
+    display: none;
+}
+.fortext {
+    position: relative;
+    left:37px;
+    top: 300px;
+}
+.tshirts a {
+    left:15px;
+}
+.footer-100 {
+    position: relative;
+    left: 0px;
+}
+.box {
+    height: 1640px;
+}
+.badges {
+    width: 365px;
+    left: 30px;
+    top: 665px;
+}
+.genshin {
+    width: 365px;
+    left: 30px;
+    top: 985px;
+}
+.shoppers {
+    width: 365px;
+    left: 30px;
+    top: 180px;
+}
+.figures  {
+    width: 365px;
+    left: 20px;
+    top: 345px;
+}
+.figures3 {
+    display: none;
+}
+.cssfigures {
+    left: 105px;
+}
+.tshirts {
+width: 365px;
+    left: 30px;
+}
+.box-content {
+    position: relative;
+    top: 415px;
+    height: 1155px;
+    left: 0;
+    border-radius: 0px;
+}
+.inst,.vk,.tg {
+    top: 305px;
+    position: relative;
+    left: 125px;
+}
+div.text {
+margin-top: 2px;
+position: relative;
+width: 300px;
+top: 295px;
+left: 0px;
+}
+img.gensh {
+    left: 0px;
+}
+img.shop {
+    left: 300px;
+    top: 10px;
+}
+img.user {
+    left: 255px;
+    top: 12px;
+}
+}
+@media screen and (min-width:300px) and (max-width: 600px) {
+    .topnav a:not(:first-child), .dropdown .dropbtn {
+      display: none;
+    }
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .topnav.responsive .dropdown {float: none;}
+    .topnav.responsive .dropdown-content {position: relative;}
+    .topnav.responsive .dropdown .dropbtn {
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+    .topnav {
+        margin-top: -155px;
+    }}
+    @media screen and (min-width:790px) and (max-width: 1000px) {
+        .topnav {
+            margin-top: -155px;
+        }
+    }
+    @media screen and (min-width:790px) and (max-width: 1000px) {
+        .header {
+            width: 836px;
+            height: 350px;
+        }
+        .logo {
+            left: 230px;
+            top: 80px;
+        }
+        #footer .column1 {
+            margin-left: 24%;
+        }
+        #footer .column2 {
+            left: 110px;
+        }
+        .containermain {
+            width: 375px;
+            height:185px;
+        }
+        .poisk {
+            right: 864px;
+            bottom: 180px;
+        }
+        .poisk input {
+            width: 812px;
+            height: 40px;
+        }
+        .knopkapoisk, .tyan {
+            display: none;
+        }
+        .menu2, .menu22  {
+            display: none;
+        }
+        .fortext {
+            position: relative;
+            left:210px;
+            top: 300px;
+        }
+        .tshirts a {
+            left:15px;
+        }
+        .footer-100 {
+            position: relative;
+            left: 0px;
+        }
+        .box {
+            height: 1640px;
+        }
+        .badges {
+            width: 365px;
+            left: 455px;
+            top: 500px;
+        }
+        .genshin {
+            width: 365px;
+            left: 20px;
+            top: 500px;
+            height: 300px;
+        }
+        img.gensh {
+            top: 149px;
+        }
+        .shoppers {
+            width: 360px;
+            left: 385px;
+            top: 13px;
+        }
+        .figures  {
+            width: 728px;
+            left: 20px;
+            top: 180px;
+        }
+        .figures3 {
+            left: 480px;
+        }
+        .cssfigures {
+            left: 300px;
+        }
+        .tshirts {
+            width: 360px;
+    left: 20px;
+        }
+        .box-content {
+            position: relative;
+            top: 415px;
+            height: 820px;
+            left: 0;
+            border-radius: 0px;
+        }
+        .inst,.vk,.tg {
+            top: 305px;
+            position: relative;
+            left: 305px;
+        }
+        img.shop {
+            left: 700px;
+            top: 10px;
+        }
+        img.user {
+            left: 660px;
+            top: 12px;
+        }
+    }
+@media screen and (min-width:400px) and (max-width: 470px) {
+            .header {
+                width: 104%;
+                height: 350px;
+            }
+            .logo {
+                left:75px;
+                top: 80px;
+            }
+            #footer .column1 {
+                margin-left: 29%;
+            }
+            #footer .column2 {
+                left: 130px;
+            }
+            .containermain {
+               
+                height:185px;
+            }
+            .poisk {
+                right: 864px;
+                bottom: 180px;
+            }
+            .poisk input {
+                width: 95%;
+                height: 40px;
+            }
+            .knopkapoisk, .tyan {
+                display: none;
+            }
+            .menu2, .menu22  {
+                display: none;
+            }
+            .fortext {
+                position: relative;
+                left:55px;
+                top: 300px;
+            }
+            .tshirts a {
+                left:15px;
+            }
+            .footer-100 {
+                position: relative;
+                left: 0px;
+            }
+            .box {
+                height: 1610px;
+            }
+            .badges {
+                width: 365px;
+                left: 40px;
+                top: 665px;
+            }
+            .genshin {
+                width: 365px;
+                left: 40px;
+                top: 985px;
+            }
+            .shoppers {
+                width: 365px;
+                left: 40px;
+                top: 180px;
+            }
+            .figures  {
+                width: 365px;
+                left: 40px;
+                top: 345px;
+            }
+            .figures3 {
+                display: none;
+            }
+            .cssfigures {
+                left: 105px;
+            }
+            .tshirts {
+            width: 365px;
+                left: 40px;
+            }
+            .box-content {
+                position: relative;
+                top: 415px;
+                height: 1155px;
+                left: 0px;
+                border-radius: 0px;
+            }
+            .inst,.vk,.tg {
+                top: 305px;
+                position: relative;
+                left: 145px;
+            }
+            img.shop {
+                left: 300px;
+                top: 10px;
+            }
+            img.user {
+                left: 255px;
+                top: 12px;
+            }
+            }
+@media screen and (min-width:370px) and (max-width: 420px) {
+                .header {
+                    width: 144%;
+                    height: 350px;
+                }
+                .logo {
+                    left:125px;
+                    top: 80px;
+                }
+                #footer .column1 {
+                    margin-left: 33%;
+                    margin-right: 109px;
+                }
+                #footer .column2 {
+                    left: 195px;
+                }
+                .containermain {
+                    width: 100;
+                    height:185px;
+                }
+                .poisk {
+                    right: 864px;
+                    bottom: 180px;
+                }
+                .poisk input {
+                    width: 95%;
+                    height: 40px;
+                }
+                .knopkapoisk, .tyan {
+                    display: none;
+                }
+                .menu2, .menu22  {
+                    display: none;
+                }
+                .fortext {
+                    position: relative;
+                    left:37px;
+                    top: 300px;
+                }
+                .tshirts a {
+                    left:15px;
+                }
+                .footer-100 {
+                    position: relative;
+                    left: 0px;
+                }
+                .box {
+                    height: 1640px;
+                }
+                .badges {
+                    width: 490px;
+                    left: 30px;
+                    top: 665px;
+                }
+                .genshin {
+                    width: 490px;
+                    left: 30px;
+                    top: 985px;
+                }
+                .shoppers {
+                    width: 490px;
+                    left: 30px;
+                    top: 180px;
+                }
+                .figures  {
+                    width: 490px;
+                    left: 20px;
+                    top: 345px;
+                }
+                .figures3 {
+                    display: none;
+                }
+                .cssfigures {
+                    left: 165px;
+                }
+                .tshirts {
+                width: 490px;
+                    left: 30px;
+                }
+                .box-content {
+                    position: relative;
+                    top: 415px;
+                    height: 1155px;
+                    left: 0;
+                    border-radius: 0px;
+                }
+                .inst,.vk,.tg {
+                    top: 305px;
+                    position: relative;
+                    left: 190px;
+                }
+                div.text {
+                margin-top: 2px;
+                position: relative;
+                width: 300px;
+                top: 295px;
+                left: 0px;
+                }
+                img.gensh {
+                    left: 215px;
+                }
+                img.shop {
+                    left: 455px;
+                    top: 10px;
+                }
+                img.user {
+                    left: 400px;
+                    top: 12px;
+                }
+                }
+                @media screen and (min-width:1440px) {
+                    .topnav {
+                    margin-left: -30px;
+                    width: 1440px;
+                    }
+                    .box {
+                        margin-left: -30px;
+                        width: 1440px;
+                    }
+                    .footer-100 {
+                        margin-left: -30px;
+                        width: 1440px;
+                    }
+                }
+                @media screen and (min-width:2560px) {
+                    .topnav {
+                        margin-left: -590px;
+                        width: 2560px;
+                        }
+                        .box {
+                            margin-left: -590px;
+                        width: 2560px;
+                        }
+                        .footer-100 {
+                            margin-left: -590px;
+                        width: 2560px;
+                        }
+                        #footer .column1 {
+                            margin-left: 42%;
+                        }
+                        .poisk input {
+                            left: 1415px;
+                        }
+                        .knopkapoisk button {
+                            left: 1715px;
+                        }
+                        img.tyan {
+                            left: 1700px;  
+                        }
+                        img.user {
+                            left: 1425px;
+                        }
+                        img.shop {
+                            left: 1465px;
+                        }
+                        .tg {
+                            left: -395px;
+                        }
+                        .vk {
+                            left: -335px;
+                        }
+                        .inst {
+                            left: -275px;
+                        }
+                        .box-content {
+                            left: -340px;
+                            width: 2035px;
+                            height: 715px;
+                        }
+                        .box {
+                            height: 1000px;
+                        }
+                        .genshin {
+                            height: 300px;
+                            width: 787px;
+                            left: 1232px;
+                            top: 397px;
+                        }
+                        .badges {
+                            width: 787px;
+                            left: 1232px;
+                            height: 370px;
+                        }
+                        .figures {
+                            height: 370px;
+                            width: 1200px;
+                            top: 330px;
+                        }
+                        .tshirts {
+                            width: 589px;
+                            height: 300px;
+                        }
+                        .shoppers {
+                            width: 593px;
+                            height: 300px;
+                            left: 618px;
+                        }
+                        img.futbolka2 {
+                            width: 570px;
+                            height: 299px;
+                        }
+                        img.shopper {
+                            width: 328px;
+                            height: 298px;
+                        }
+                        img.badge1, img.badge2,img.badge3,img.badge4 {
+                            width: 150px;
+                            height: 150px;
+                        }
+                        img.badge6 {
+                            left: 370px;
+                            top: 223px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                        img.badge7 {
+                            left: 452px;
+                            top: 223px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                        img.badge8 {
+                            left: 531px;
+                            top: 223px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                        img.badge9 {
+                            left: 615px;
+                            top: 223px;
+                            width: 150px;
+                            height: 150px;
+                        }
+                        img.badge11,img.badge12 {
+                            display: none;
+                        }
+                        .figures1 {
+                            width: 329px;
+                             height: 320px;
+                        }
+                        .figures3 {
+                        width: 375px;
+                        height: 314px;
+                        left: 791px;
+                        }
+                        img.gensh {
+                            width: 486px;
+                            left: 340px;
+                        }
+                        .cssgensh a {
+                            width: 247px;
+                            font-size: 30px;
+                        }
+                        .spanf, .cssfigures a {
+                            color: black;
+                            left: 137px;
+                        }
+                        .cssfigures, .spanf, .spanj, .spank {
+                            font-size: 29px;
+                            width: 387px;
+                        }
+                        .tshirts a {
+                            left: 139px;
+                        }
+                        .shoppers a {
+                            left: 147px;
+                            position: relative;
+                        }
+                    }

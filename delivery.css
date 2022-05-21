@@ -1,0 +1,411 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containermain {
+    transform: scale(100%)
+}
+.container {
+    position: relative;
+    max-width: 1349px;
+    margin: 0 auto; 
+    right: 8px;
+}
+body {
+    margin: 0px;
+    height: 990px;
+}
+.header {
+    position: absolute;
+    width: 1365px;
+    height: 256px;
+    left: -8px;
+    top: -7px;
+background: url(/УЧЕБА\ 1К2С/kurs/photo/gif.gif);
+background-color:#f7eef5;
+}
+.logo {
+position: absolute;
+width: 286.82px;
+height: 216px;
+left: 523px;
+top: 40px;
+background: url(/УЧЕБА\ 1К2С/kurs/photo/logo4.png)
+}
+div.text {
+    margin-top: 2px;
+    background: transparent;
+    border-left: 2px solid #ef9eff;
+    border-right: 2px solid #61475e;
+    background-image: linear-gradient(45deg, #ef9eff, #61475e), linear-gradient(45deg, #ef9eff, #61475e);
+    background-size: 100% 2px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    position: fixed;
+    width: 300px;
+    top: 69px;
+    left: 120px;
+}
+.text {
+    width: 98%; 
+    margin: 0 auto;
+    text-align: center;
+}
+address {
+    font-style: normal;
+}
+.phone {
+margin: 0.5rem 0;
+        display: block;
+        color: #222;
+        text-decoration: none;
+        font-size: 16px;
+    font-weight: 700;
+}
+div.text {
+margin-top: 2px;
+}
+.knopkapoisk button{
+    position: absolute;
+    width: 29.74px;
+    height: 30px;
+    left: 1186.66px;
+    top: 132px;
+    border: 1px solid rgb(105, 53, 116);
+    box-sizing: border-box;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: transparent;
+}
+.poisk {
+    position: relative;
+}
+.poisk input{
+    position: absolute;
+    width: 297.39px;
+    height: 30px;
+    left: 884.32px;
+    top: 132px;
+    border: 1px solid rgb(105, 53, 116);
+    box-sizing: border-box;
+    border-radius: 3px;
+    background: transparent;
+}
+.ellipse {
+    position: absolute;
+width: 13px;
+height: 13px;
+left: 9px;
+top: 8px;
+background: linear-gradient(to top,#ef9eff, #61475e);
+border-radius: 10px;
+margin-left: -1px;
+}
+img.tyan {
+    position: absolute;
+    left: 1168px;
+    top: 80px;
+    width: 60px;
+    height: 52px;
+}
+img.shop {
+    position:absolute;
+left: 934px;
+top: 87px; ;
+width:48.98px; height:50px;
+}
+img.user {
+    position: absolute;
+width: 40px;
+height: 39.66px;
+left: 892px;
+top: 90px;
+}
+.inst {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 322.26px;
+    top: 185px;
+}
+.tg {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 262.78px;
+    top: 185px;
+    
+}
+.vk {
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 203.3px;
+top: 185px;
+}
+
+.footer-100 {
+    text-align: center;
+    display: inline-block;
+    background-color: #f7eef5;
+}
+.footer-100, .footer {
+    width:100%;
+}
+#footer .column1  {
+    float: left;
+    margin-left: 35%;
+    font-size: 16px;
+    position: relative;
+    left: 30px;
+}
+.column1 li:hover {
+    text-decoration: underline;
+}
+#footer .column2  {
+    float: left;
+    font-size: 16px;
+    position: relative;
+    left: 40px;
+}
+table a:hover {
+    text-decoration: underline;
+}
+a, h6, .address, .text, ::placeholder {
+  font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+}
+.column1 h6 {
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.column2 h6 {
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top: 20px;
+    left: -12px;
+    position: relative;
+}
+.tmail {
+    position: relative;
+    margin-bottom: 10px;
+}
+li {
+    list-style-type: none;
+    margin-bottom: 7px;
+}
+.table {
+    margin-left: 21px;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+table a:hover {
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: underline;
+}
+.box {
+    background: url(/УЧЕБА\ 1К2С/kurs/photo/background.png);
+    width:1365px;
+    height: 1355px;
+}
+
+.spisok {
+    border: 1px solid black;
+    border-radius: 10px;
+    width:600px;
+    height: 400px;
+}
+.about {
+    width: 1240px;
+    height: 180px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid rgb(240, 240, 240);
+    top: 270px;
+    left: 60px;
+    background-color: white;
+}
+.igr h1{
+    border-bottom: 1px solid #d2b3cf;
+    font-size:20px;
+    margin: 5px;
+    padding: 10px;
+    font-weight: normal;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+.igr2 h1{
+    border-bottom: 1px solid #d2b3cf;
+    font-size:20px;
+    margin: 5px;
+    padding: 10px;
+    font-weight: normal;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+.igr3 h1{
+    border-bottom: 1px solid #d2b3cf;
+    font-size:20px;
+    margin: 5px;
+    padding: 10px;
+    font-weight: normal;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+.igr4 h1{
+    border-bottom: 1px solid #d2b3cf;
+    font-size:20px;
+    margin: 5px;
+    padding: 10px;
+    font-weight: normal;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+.igr5 h1{
+    border-bottom: 1px solid #d2b3cf;
+    font-size:20px;
+    margin: 5px;
+    padding: 10px;
+    font-weight: normal;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+    text-align: center; 
+    font-size: x-large;
+}
+.aboutt {
+    margin: 10px;
+}
+.skidki {
+    text-align: center;
+    font-size: large;
+    width: 500px;
+    left: 380px;
+    position: relative;
+    border-bottom: #d2b3cf 1px solid;
+    padding-bottom: 15px;
+}
+.about2 {
+    width: 1240px;
+    height: 655px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid rgb(240, 240, 240);
+    top: 300px;
+    left: 60px;
+    background-color: white;
+}
+.aboutskidki h4{
+    font-weight: normal;
+    font-style: normal;
+text-align: center;
+text-decoration: none;
+font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+margin-bottom: 50px;
+width: 1220px
+}
+.kartapered, .kartazad {
+    width: 500px;
+    position: relative;
+    left: 5px;
+    margin-top: 25px;
+}
+
+body {margin:0;font-family:Arial}
+        
+.topnav {
+  overflow: hidden;
+  background-color: #f7eef5;
+  margin-left: 10px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #f7eef5;
+  color: black;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f7eef5;
+    min-width: 160px;
+    z-index: 1;
+    font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #d6bbd0;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #d6bbd0;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    
+
+}
+.footer-100,.footer {
+    width: 100%;
+}
+.footer-100 {
+    text-align: center;
+    display: inline-block;
+    background-color: #f7eef5;
+    top: 316px;
+    position: relative;
+}

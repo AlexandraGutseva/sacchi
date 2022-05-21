@@ -1,0 +1,584 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containermain {
+    transform: scale(100%)
+}
+.container {
+    position: relative;
+    max-width: 1349px;
+    margin: 0 auto; 
+    right: 8px;
+}
+body {
+    margin: 0px;
+    height: 990px; 
+}
+.header {
+    position: absolute;
+    width: 1365px;
+    height: 256px;
+    left: -8px;
+    top: -7px; 
+background: url(/УЧЕБА\ 1К2С/kurs/photo/gif.gif);
+background-color:#f7eef5;
+}
+.logo {
+position: absolute;
+width: 286.82px;
+height: 216px;
+left: 523px;
+top: 40px;
+background: url(/УЧЕБА\ 1К2С/kurs/photo/logo4.png)
+}
+
+.text {
+    width: 98%; 
+    margin: 0 auto;
+    text-align: center;
+}
+address {
+    font-style: normal;
+}
+.phone {
+margin: 0.5rem 0;
+        display: block;
+        color: #222;
+        text-decoration: none;
+        font-size: 16px;
+    font-weight: 700;
+}
+div.text {
+    margin-top: 2px;
+    background: transparent;
+    border-left: 2px solid #ef9eff;
+    border-right: 2px solid #61475e;
+    background-image: linear-gradient(45deg, #ef9eff, #61475e), linear-gradient(45deg, #ef9eff, #61475e);
+    background-size: 100% 2px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    position: fixed;
+    width: 300px;
+    top: 69px;
+    left: 120px;
+}
+.knopkapoisk button{
+    position: absolute;
+    width: 29.74px;
+    height: 30px;
+    left: 1186.66px;
+    top: 132px;
+    border: 1px solid rgb(105, 53, 116);
+    box-sizing: border-box;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: transparent;
+}
+.poisk {
+    position: relative;
+}
+.poisk input{
+    position: absolute;
+    width: 297.39px;
+    height: 30px;
+    left: 884.32px;
+    top: 132px;
+    border: 1px solid rgb(105, 53, 116);
+    box-sizing: border-box;
+    border-radius: 3px;
+    background: transparent;
+}
+.ellipse {
+    position: absolute;
+width: 13px;
+height: 13px;
+left: 9px;
+top: 8px;
+background: linear-gradient(to top,#ef9eff, #61475e);
+border-radius: 10px;
+margin-left: -1px;
+}
+img.tyan {
+    position: absolute;
+    left: 1168px;
+    top: 80px;
+    width: 60px;
+    height: 52px;
+}
+img.shop {
+    position:absolute;
+left: 934px;
+top: 87px; ;
+width:48.98px; height:50px;
+}
+img.user {
+    position: absolute;
+width: 40px;
+height: 39.66px;
+left: 892px;
+top: 90px;
+}
+.inst {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 322.26px;
+    top: 185px;
+}
+.tg {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 262.78px;
+    top: 185px;
+    
+}
+.vk {
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 203.3px;
+top: 185px;
+}
+.box {
+    background: url(/УЧЕБА\ 1К2С/kurs/photo/background.png);
+
+    height: 789px;
+}
+.box-content {
+    position: absolute;
+    border: 1px solid #f7eef5;
+    border-radius: 10px;
+    left: 80px;
+    right: 70px;
+    top:310px;
+    height: 500px;
+    background-color: #f7eef5;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap:10px;
+}
+.tshirts {
+position: absolute;
+width: 385.66px;
+height: 150px;
+left: 13px;
+top: 13px;
+border: 1px solid white;
+box-sizing: border-box;
+border-radius: 10px;
+cursor: pointer;
+background-color: white;
+}
+img.futbolka2 {
+    display: inline-block;
+    position: absolute;
+    width: 350px;
+height: 148px;
+margin-left: 7px;
+}
+.csstshirts {
+    display: inline-block;
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 188px;
+top: 49px;
+color: #000000;
+font-size: 30px;
+}
+.shoppers {
+    border: 1px solid rgb(255, 237, 245);
+    position: absolute;
+    width: 385.66px;
+    height: 150px;
+    left: 411.66px;
+    top: 13px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: pointer;
+    background: rgb(255, 237, 245);
+    }
+    img.shopper {
+        position: absolute;
+        width: 148px;
+    height: 148px;
+    }
+.cssshoppers {
+    display: inline-block;
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 188px;
+top: 49px;
+color: #000000;
+font-size: 30px;
+}
+.badges {
+    border: 1px solid rgb(227, 232, 255);
+    position: absolute;
+    width: 385.66px;
+    height: 300px;
+    left: 810.32px;
+    top: 13px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(227, 232, 255);
+    }
+    img.badge1 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    top:222px;
+    left:10px;
+    }
+    img.badge2 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 108px;
+top:222px;    
+}
+    img.badge3 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 206px;
+    top:222px;
+    }
+    img.badge4 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 296px;
+    top:222px;
+    }
+    img.badge6 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    top:151px;
+    left:10px;
+    }
+    img.badge7 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 108px;
+    top:151px;
+    }
+    img.badge8 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 206px;
+    top:151px;
+    }
+    img.badge9 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    left: 296px;
+    top:151px;
+    }
+    img.badge11 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    top:77px;
+    left:10px;
+    }
+    img.badge12 {
+        position: absolute;
+        width: 70px;
+    height: 70px;
+    top:7px;
+    left:10px;
+    }
+.cssbadges {
+    display: inline-block;
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 95px;
+top: 41px;
+font-size: 30px;
+}
+.span {
+    font-size:20px;
+    position: absolute;
+    width: 190px;
+}
+.span, .cssbadges a {
+    text-decoration: none;
+    color:black;
+}
+.shoppers a {
+    text-decoration: none;
+    color:black;
+}
+.tshirts a {
+    text-decoration: none;
+    color:black;
+}
+a:hover {
+    text-decoration: underline;
+   }
+   .figures {
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    width: 784.32px;
+    height: 300px;
+    left: 12px;
+    top: 176px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    
+    }
+    .figures1 {
+        display: inline-block;
+        position: absolute;
+        width: 240px;
+        height: 250px;
+        top: 50px;
+        left: 5px;
+    }
+.figures3 {
+    position: absolute;
+    width: 240px;
+    height: 250px;
+    top: 49px;
+     left:537px;
+           }      
+       
+.genshin {
+    position: absolute;
+width: 385.66px;
+height: 150px;
+border: 1px solid;
+border-radius: 10px;
+top:326px;
+left: 810.32px;
+background: white;
+border-color: white;
+cursor: pointer;
+}
+
+.skidki {
+cursor: pointer;
+align-items: center;
+text-align: center;
+position: relative;
+}
+.skidkia {
+    top:1px;
+}
+.cssfigures {
+    display: inline-block;
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 335px;
+top: 10px;
+font-size: 30px;
+}
+.spanf, .spanj, .spank {
+    font-size:20px;
+    position: absolute;
+    width: 190px;
+    left: -91px;
+    top: 34px;
+}
+.spanf, .cssfigures a {
+    text-decoration: none;
+    color:black;
+    left: -1px;
+}
+a:hover {
+    text-decoration: underline;
+}
+.spanj {
+    left:100px;
+}
+img.gensh {
+    display: inline-block;
+    position: absolute;
+    width: 244px;
+    left:148px;
+}
+.cssgensh a {
+    display: inline-block;
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 101px;
+top: 24px;
+font-size: 30px;
+color:black;
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+} 
+.footer-100 {
+    text-align: center;
+    display: inline-block;
+    background-color: #f7eef5;
+}
+.footer-100, .footer {
+    width:100%;
+    left:100px;
+}
+#footer .column1  {
+    float: left;
+    margin-left: 35%;
+    font-size: 16px;
+    position: relative;
+    left: 30px;
+}
+.column1 li:hover {
+    text-decoration: underline;
+}
+#footer .column2  {
+    float: left;
+    font-size: 16px;
+    position: relative;
+    left: 40px;
+}
+table a:hover {
+    text-decoration: underline;
+}
+a, h6, .address, .text, ::placeholder {
+  font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+}
+.column1 h6 {
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.column2 h6 {
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 45px;
+    margin-top: 20px;
+    left: -12px;
+    position: relative;
+}
+.tmail {
+    position: relative;
+    margin-bottom: 10px;
+}
+li {
+    list-style-type: none;
+    margin-bottom: 7px;
+}
+.table {
+    margin-left: 21px;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+table a:hover {
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: underline;
+} 
+
+  .tshirts a {
+    display: inline-block;
+position: absolute;
+width: 64px;
+height: 16px;
+left: 38px;
+font-size: 30px;
+color: black;
+  }
+
+  body {margin:0;font-family:Arial}
+        
+  .topnav {
+    overflow: hidden;
+    background-color: #f7eef5;
+    margin-left: 10px;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .active {
+    background-color: #f7eef5;
+    color: black;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+  
+  .dropdown {
+      float: left;
+      overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+      font-size: 17px;    
+      border: none;
+      outline: none;
+      color: black;
+      padding: 14px 16px;
+      background-color: inherit;
+      font-family: inherit;
+      margin: 0;
+      font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+  }
+  
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f7eef5;
+      min-width: 160px;
+      z-index: 1;
+      font-family: "Century Gothic","Trebuchet MS",Helvetica,Arial,sans-serif;
+  }
+  
+  .dropdown-content a {
+      float: none;
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+  }
+  
+  .topnav a:hover, .dropdown:hover .dropbtn {
+    background-color: #d6bbd0;
+    color: white;
+  }
+  
+  .dropdown-content a:hover {
+      background-color: #d6bbd0;
+      color: black;
+  }
+  
+  .dropdown:hover .dropdown-content {
+      display: block;
+      
+
+  }
+  

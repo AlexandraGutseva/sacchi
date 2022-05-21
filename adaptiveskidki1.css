@@ -1,0 +1,119 @@
+
+@media screen and (min-width:300px) and (max-width: 360px) {
+    .about {
+        width: 344px;
+        top: 420px;
+        left: 10%;
+        display: inline-block;
+    }
+    .about2 {
+        width: 344px;
+        top: 440px;
+        height: auto;
+        left: 10%;
+        display: inline-block;
+    }
+    .skidki {
+        left: 23px;
+        border: 0;
+        width: 300px;
+    }
+    .aboutskidki h4 {
+        width: 340px;
+    }
+    .poisk input {
+        width: 93%;
+    }
+    .box {
+        height: 547%;
+        width: 100%;
+    }
+    .kartapered,.kartazad {
+        width: 300px;
+        left: 0px;
+    }
+    #footer .column1 {
+        margin-left: 30%;
+        margin-right: 100px;
+    }
+    #footer .column2 {
+        margin-left: 13%;
+    }
+    .footer-100 {
+        position: relative;
+        left: 0px;
+        top: 479px;
+    }
+    }
+    @media screen and (min-width:370px) and (max-width: 470px) {
+        .about {
+            width: 344px;
+            top: 420px;
+            left: 10%;
+            display: inline-block;
+        }
+        .about2 {
+            width: 344px;
+            top: 440px;
+            height: auto;
+            left: 10%;
+            display: inline-block;
+        }
+        .skidki {
+            left: 23px;
+            border: 0;
+            width: 300px;
+        }
+        .aboutskidki h4 {
+            width: 340px;
+        }
+        .poisk input {
+            width: 93%;
+        }
+        .box {
+            height: 497%;
+            width: 100%;
+        }
+        .kartapered,.kartazad {
+            width: 300px;
+            left: 0px;
+        }
+        #footer .column1 {
+            margin-left: 30%;
+            margin-right: 100px;
+        }
+        #footer .column2 {
+            margin-left: 13%;
+        }
+        .footer-100 {
+            position: relative;
+            left: 0px;
+            top: 479px;
+        }
+        }
+    @media screen and (min-width: 370px) and (max-width: 420px){
+        .poisk input {
+            width: 96%;
+        }
+    .about {
+        width: 449px;
+    }
+    .about2 {
+        width: 449px;
+        height: auto;
+    }
+    .skidki {
+        width: 395px;
+    }
+    .aboutskidki h4 {
+        width: 448px;
+    }
+    #footer .column2 {
+        margin-left: 2%;
+    }
+    }
+    @media screen and (min-width:400px) and (max-width: 470px) {
+        .poisk input {
+            width: 94%;
+        }
+    }

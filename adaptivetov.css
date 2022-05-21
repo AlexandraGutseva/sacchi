@@ -1,0 +1,46 @@
+@media screen and (min-width:300px) and (max-width: 470px) {
+    #container {
+        top:350px;
+        display: grid;
+        width: 90%;
+        left: 7px;
+        height: 1010px;
+    }
+    .product-details {
+        width: 100%;
+        height: 160%;
+        padding: 10px;
+    }
+    .product-image {
+        top: 0px;
+        width: 100%;
+        display: flex;
+    }
+    .control {
+        position: absolute;
+        bottom: 42%;
+        left: 21%;
+    }
+    .box {
+        height: 1500px;
+    }
+    .image,.image2,.image3 {
+        top: auto;
+    }
+}
+@media screen and (min-width:370px) and (max-width: 400px) {
+    .image,.image2,.image3 {
+        left: 13%;
+        top:auto;
+    }
+    .control {
+        position: absolute;
+        bottom: 45%;
+        left: 27%;
+    }
+}
+@media screen and (min-width:400px) and (max-width: 600px) {
+    .image,.image2,.image3 {
+        top: auto
+    };
+}

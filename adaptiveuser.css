@@ -1,0 +1,31 @@
+@media screen and (max-width: 470px) {
+#account-menu {
+    top: 500px;
+    left: 95px;
+}
+.register {
+    left: 0;
+    top: 590px;
+    width: auto;
+    height: 560px;
+    margin: 22px;
+}
+.input100 {
+    width: 330px;
+}
+.footer-100 {
+    width: 392px;
+}
+#footer .column1 {
+    margin-left: 27%;
+}
+#footer .column2 {
+    left: 140px;
+}
+.vh {
+left:100px;
+}
+.box {
+    height: 1140px;
+}
+}
